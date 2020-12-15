@@ -1,0 +1,7 @@
+C:\Users\cliente-preferido\source\repos\FigurasInterfaces\bin\Debug\FigurasInterfaces.exe.config
+C:\Users\cliente-preferido\source\repos\FigurasInterfaces\bin\Debug\FigurasInterfaces.exe
+C:\Users\cliente-preferido\source\repos\FigurasInterfaces\bin\Debug\FigurasInterfaces.pdb
+C:\Users\cliente-preferido\source\repos\FigurasInterfaces\obj\Debug\FigurasInterfaces.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\FigurasInterfaces\obj\Debug\FigurasInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\FigurasInterfaces\obj\Debug\FigurasInterfaces.exe
+C:\Users\cliente-preferido\source\repos\FigurasInterfaces\obj\Debug\FigurasInterfaces.pdb
